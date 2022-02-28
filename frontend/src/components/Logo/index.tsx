@@ -10,7 +10,7 @@ const defaultOptions = {
   rendererSettings: {
     preserveAspectRatio: `xMidYMid slice`
   },
-  autoReverseAnimation: true
+  autoReverseAnimation: true,
 };
 
 export function Logo() {
@@ -24,7 +24,7 @@ export function Logo() {
       }}
       transition={{ duration: 1, type: 'spring', bounce: 0.8 }}
     >
-      <Lottie options={defaultOptions} width={150} height={200} />
+      <Lottie options={defaultOptions} width={150} height={200} speed={0.8}/>
       <div>
         <h1>Emojify</h1>
         <h2>"Emojifique" sua senhas</h2>
