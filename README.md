@@ -15,7 +15,7 @@
 &nbsp;
 
 ## 👨🏻‍💻 Funcionalidades extras desenvolvidas durante a criação
-* Front-end em Vite com Styled Components, Framer motion. Animações Lottie + Typescript;
+* Front-end em Vite com Styled Components, Framer motion, animações Lottie + Typescript;
 * API simples usando Typescript para a geração dos emojis via rota;
 
 &nbsp;
