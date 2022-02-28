@@ -62,7 +62,6 @@ $ yarn dev
 
 ### 🔗 Link para o projeto online
 
-<br />
 [FRONT](https://balle-node-desafio-1.vercel.app)
 
 &nbsp;
